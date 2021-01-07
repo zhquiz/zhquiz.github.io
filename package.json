@@ -1,0 +1,12 @@
+{
+  "name": "www",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:zhquiz/zhquiz.github.io.git",
+  "author": "Pacharapol Withayasakpunt <polv@polv.cc>",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^3.1.0",
+    "js-yaml": "^4.0.0"
+  }
+}
